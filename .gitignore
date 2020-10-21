@@ -1,3 +1,9 @@
 .DS_Store
 .ipynb_checkpoints
 
+checkpoints/
+my_model.h5
+saved_model/
+training_1/
+training_2/
+
