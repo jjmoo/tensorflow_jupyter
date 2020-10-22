@@ -1,9 +1,10 @@
 .DS_Store
 .ipynb_checkpoints
 
-checkpoints/
+checkpoints
 my_model.h5
-saved_model/
-training_1/
-training_2/
+saved_model
+training_1
+training_2
+my_dir
 
